@@ -16,10 +16,10 @@ namespace Infrastructure.Identity.Seeds
             //Seed Default User
             var defaultUser = new ApplicationUser
             {
-                UserName = "basicuser",
-                Email = "basicuser@gmail.com",
-                FirstName = "John",
-                LastName = "Doe",
+                UserName = "zhenyuanBasic",
+                Email = "czy9808@gmail.com",
+                FirstName = "Choong",
+                LastName = "ZhenYuanBasic",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };

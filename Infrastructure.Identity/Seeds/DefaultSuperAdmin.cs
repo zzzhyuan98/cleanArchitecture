@@ -18,10 +18,10 @@ namespace Infrastructure.Identity.Seeds
             //Seed Default User
             var defaultUser = new ApplicationUser
             {
-                UserName = "superadmin",
-                Email = "superadmin@gmail.com",
-                FirstName = "Mukesh",
-                LastName = "Murugan",
+                UserName = "zhenyuanSuperAdmin",
+                Email = "czy5369@gmail.com",
+                FirstName = "Choong1",
+                LastName = "ZhenYuanAdmin",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };
